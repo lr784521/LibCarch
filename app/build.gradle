@@ -40,7 +40,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
 //    工具库
-    implementation 'com.hysz.lib_tools:lib_tools:0.0.2-SNAPSHOT'
+    implementation 'com.hysz.lib_tools:lib_tools:0.0.7-SNAPSHOT'
 
     //本地仓库/远程仓库使用方式
     implementation 'com.hysz.lib_carch:lib_carch:0.0.2-SNAPSHOT'

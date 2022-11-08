@@ -1,10 +1,10 @@
 package com.huayun.libcarch;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.huayun.lib_carch.carch.NeverCrash;
 import com.huayun.lib_tools.util.log.LogUtil;
