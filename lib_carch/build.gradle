@@ -37,6 +37,6 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
 
     //修改依赖库
-    implementation 'com.github.lr784521:LibTools:1.2'
+    implementation 'com.github.lr784521:LibTools:1.3'
 
 }
